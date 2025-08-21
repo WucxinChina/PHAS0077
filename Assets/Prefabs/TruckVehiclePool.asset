@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151b8a3ba5d344f47b4955a0d785806a, type: 3}
+  m_Name: TruckVehiclePool
+  m_EditorClassIdentifier: 
+  trafficCars:
+  - vehiclePrefab: {fileID: 2617958627243851326, guid: f990cfe408b4c884b9a824c778e2d14f,
+      type: 3}
+    percent: 45
+    ignore: 0
+  - vehiclePrefab: {fileID: 2617958627243851326, guid: 10c60b03aab34a34790c422d6b11eed4,
+      type: 3}
+    percent: 45
+    ignore: 0
+  - vehiclePrefab: {fileID: 847082991836210984, guid: e346d262823259a4dab7190352aaab57,
+      type: 3}
+    percent: 10
+    ignore: 0

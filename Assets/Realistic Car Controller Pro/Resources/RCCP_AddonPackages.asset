@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d92b409093d234409197fc4c7649d6d, type: 3}
+  m_Name: RCCP_AddonPackages
+  m_EditorClassIdentifier: 
+  demoPackage: {fileID: 102900000, guid: c49ba6fa6ffd1ba4d9cafda9ed255aa3, type: 3}
+  BCGSharedAssets: {fileID: 102900000, guid: beea88438fc797b479ea3220b8851a74, type: 3}
+  PhotonPUN2: {fileID: 102900000, guid: 9f6767e279fc3a543a756a3e48465699, type: 3}
+  ProFlare: {fileID: 102900000, guid: 3759513fd9f47384594b0904d4a84320, type: 3}
+  mirror: {fileID: 102900000, guid: 1ff027fb2b8d20745aa2a5b7ce97d1d9, type: 3}
+  RTC: {fileID: 102900000, guid: 5dd7032342efe0942b636ad41ee97cfc, type: 3}
+  builtinShaders: {fileID: 102900000, guid: 289688a2f3bba41409ae985c9e589eaa, type: 3}
+  URPShaders_2021: {fileID: 102900000, guid: 729a5d4cb4dc64d4e873ae8a7707ca86, type: 3}
+  URPShaders_2022: {fileID: 102900000, guid: f4f57f386d1452c4085241458c08909a, type: 3}
+  URPShaders_2023: {fileID: 102900000, guid: f5124ccea37fd054cb2f165fa4a66c86, type: 3}
+  URPShaders_6: {fileID: 102900000, guid: 7d9c4cc0a0efc9b4f90385cd23ba53ec, type: 3}
+  HDRPShaders_2022: {fileID: 102900000, guid: ebfbd14e74837c24c9a8b12d5fb95d66, type: 3}
+  HDRPShaders_2023: {fileID: 102900000, guid: 9537a446ee3c57f4b8e0e120ba947bb3, type: 3}
+  HDRPShaders_6: {fileID: 102900000, guid: daf3f9aa4cf968a489e6e610a77afeb8, type: 3}
+  HDRPVolumeProfile: {fileID: 102900000, guid: 72dfeba3c6aaf8a40a60a253775a11d3, type: 3}

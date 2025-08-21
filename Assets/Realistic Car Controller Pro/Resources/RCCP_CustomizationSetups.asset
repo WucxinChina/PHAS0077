@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa56ecb7ed9242943b25f41bd133bda7, type: 3}
+  m_Name: RCCP_CustomizationSetups
+  m_EditorClassIdentifier: 
+  customization: {fileID: 9043214106378221262, guid: f0f2ce44bb7e5174a83afb1e0763cd01, type: 3}
+  decals: {fileID: 2501460358188250193, guid: 42454d0207fc3a94e9d498b8cd333111, type: 3}
+  neons: {fileID: 4062961076127458750, guid: 1578e967916c85e4fa92fb3087c84f02, type: 3}
+  paints: {fileID: 4451463324587171266, guid: dfdef68260ff461409a62833fd04c8dd, type: 3}
+  sirens: {fileID: 3186526125600633632, guid: e2354de8e721a60468aed537366f5f3f, type: 3}
+  spoilers: {fileID: 4602639033875120324, guid: 9dc07997dbaf6e043b18f3d1b327d449, type: 3}
+  upgrades: {fileID: 6834428623387174727, guid: b7d960cded1825a46ae4154010e4a317, type: 3}
+  wheels: {fileID: 9043214106378221262, guid: 435b8f6c0c758b34dabb82ecb1a4a7ee, type: 3}

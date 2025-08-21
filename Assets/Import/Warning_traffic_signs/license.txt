@@ -1,0 +1,11 @@
+Model Information:
+* title:	Warning traffic signs
+* source:	https://sketchfab.com/3d-models/warning-traffic-signs-844fd718b6ef4a28879ec84493a6242c
+* author:	CoderBoy (https://sketchfab.com/baso4388)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Warning traffic signs" (https://sketchfab.com/3d-models/warning-traffic-signs-844fd718b6ef4a28879ec84493a6242c) by CoderBoy (https://sketchfab.com/baso4388) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - GasPedal
+  - BrakePedal
+  - LeftSteer
+  - RightSteer
+  - NGUICamera
+  - Cars
+  - ScenarioButton
+  - TrafficLight
+  - Speeding
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TrafficCar
+  - RCC_Vehicle
+  - Barrier
+  - Asphalt
+  - RCC
+  - TrafficCarVolume
+  - RCC_WheelCollider
+  - RCC_DetachablePart
+  - RCC_Prop
+  - RCCP_Vehicle
+  - Road
+  - Traffic
+  - Building
+  - Obstacle
+  - RCCP_WheelCollider
+  - RCCP_DetachablePart
+  - RCCP_Prop
+  - RCCP_Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
